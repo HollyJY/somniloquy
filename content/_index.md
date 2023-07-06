@@ -39,3 +39,6 @@ To create a **private second brain** either:
 ## Example notebook
 
 {{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+
+---
+# OK, I like it
