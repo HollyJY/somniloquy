@@ -51,17 +51,27 @@ weight: 1
 
 {{< figure src="202307beijing/qingzhixiu.jpg" caption="慈禧园子里房门口的青芝岫" resize_options="100x">}}
 
-向上爬许久，终于到佛香阁，迷思是到底慈禧当年爬不爬。出租车司机说，可能也爬，只是我爬 30m，人家爬 3m，也有道理。山水山水，依山傍水，好极了的位置。除开殿里见到的千手观音庄严悲悯；还看到极好看的一对青花绘制龙纹花瓶，可惜在屋子里隔着玻璃看不清，但漂亮极了；再有供奉的贴龙型青瓷的木质雕花龙椅，实在是极美的工艺品。现代中国审美 1/10 都比不上。
+向上爬很久，终于到佛香阁，迷思是到底慈禧当年爬不爬，这太累人了。出租车司机说，可能也爬，只是我爬 30m，人家爬 3m，也有道理。山水山水，依山傍水，好极了的位置。除开殿里见到的千手观音庄严悲悯；还看到极好看的一对青花绘制龙纹花瓶，可惜在屋子里隔着玻璃看不清，但漂亮极了；再有供奉的贴龙型青瓷的木质雕花龙椅，实在是极美的工艺品。现代中国审美 1/10 都比不上。
 
 {{< figure src="202307beijing/foxiangge.jpg" caption="排云殿前仰望佛香阁" resize_options="100x">}}
 
-## 罗马雕塑
+### 罗马雕塑
 
-The Light of Ancient Civilization
+_The Light of Ancient Civilization_ / The National Archaeological Museum of Naples
 
-The National Archaeological Museum of Naples
+不必言说的美和优雅。
 
-不需要语言言说的罗马雕塑美丽
+{{< figure src="202307beijing/weinasi.jpg" caption="维纳斯的背影" resize_options="100x">}}
+
+{{< figure src="202307beijing/aboluo.jpg" caption="手持七弦琴的阿波罗" resize_options="100x">}}
+
+{{< figure src="202307beijing/helakelesi.jpg" caption="赫拉克勒斯" resize_options="100x">}}
+
+{{< figure src="202307beijing/sainieka.jpg" caption="塞涅卡" resize_options="100x">}}
+
+### 妙应寺白塔
+
+
 
 * Day1 - 见朋友
 * Day2 - 圆明园、清华艺博、见朋友
