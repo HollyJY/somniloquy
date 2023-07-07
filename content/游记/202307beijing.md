@@ -9,7 +9,7 @@ weight: 1
 
 从延误的首都快线下来，和 gsj 见面吃了味比沼津港的长宁日料，跟她讲在北京上海东京的奇妙“人类观察日记”，顿觉这一个月对人类多样性的认识增长之丰。这实在是太有意思的旅程和谈话了，不写下来好像对不起无数福至心灵时刻。再者，刚刚尝到出门的甜头，未来还希望去很多地方旅行，遗忘也多少让人恐惧。
 
-{{< figure src="202307beijing/riliao.jpeg" caption="长宁日料" style="width:50%">}}
+{{< figure src="202307beijing/riliao.jpeg" caption="长宁日料" resize_options="250x">}}
 
 
 
