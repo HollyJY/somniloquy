@@ -1,11 +1,10 @@
 ---
-title: ✍️ Second Brain
+title: Somniloquy
 date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  filename: covers/cover1.jpg
 ---
 
 Welcome to the _Second Brain_ template!
