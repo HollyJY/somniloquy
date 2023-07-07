@@ -6,4 +6,7 @@ resources/
 public/
 jsconfig.json
 
+# General
 .DS_Store
+.AppleDouble
+.LSOverride
