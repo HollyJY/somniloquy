@@ -80,7 +80,7 @@ _The Light of Ancient Civilization_ / The National Archaeological Museum of Napl
 
 双环万寿亭那里有许多北京老大爷翘着脚聊脱钩，甚至还在抽烟。而公园里本不该抽烟的。给人一种强烈错觉，好像是天子脚下皇城里的一块清净地带，在这里回归了一些市民生活，可以回归一些公民本该做的事。是我的错觉吧？
 
-{{< figure src="202307beijing/tiantan.jpg" caption="双环万寿亭" resize_options="100x">}}
+{{< figure src="202307beijing/tiantan.jpg" caption="双环万寿亭" resize_options="60x">}}
 
 * Day1 - 见朋友
 * Day2 - 圆明园、清华艺博、见朋友
