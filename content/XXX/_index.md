@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: ✍️ 可以名状的焦虑
-linktitle: ✍️ 可以名状的焦虑
+title: ✍️ XXX
+linktitle: ✍️ XXX
 summary: 月记和随笔
 weight: 2
 # icon: python
