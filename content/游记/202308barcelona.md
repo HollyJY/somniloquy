@@ -1,7 +1,7 @@
 ---
-title: 2023.8 Barcelona
-linktitle: 2023.8 Barcelona
-date: '2023-07-30T00:00:00+01:00'
+title: 2023.7 🇪🇸Barcelona
+linktitle: 2023.7 🇪🇸Barcelona
+date: '2023-08-02T00:00:00+01:00'
 toc: true
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -25,7 +25,7 @@ weight: 2
 
 # BAMB
 
-2023.8.18-2023.8.27
+2023.7.18-2023.7.27
 
 巴塞起源是超值 summer school，运气多数时候才是决定人去向的最大要素。阴差阳错的帽子戏法让人担忧惊喜欲罢不能。
 
