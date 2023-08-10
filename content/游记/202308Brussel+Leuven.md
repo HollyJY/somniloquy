@@ -52,7 +52,7 @@ weight: -3
 
 罗马雕塑果然健美，女性小像匀称美丽，四舍五入教我其实不减肥也已经很不错差不多，这种美学教育！希腊人瓦罐陶瓷，画满运动与打猎简笔画，简单精妙，非常美丽和谐，甚至动感。很难看到这么好看的简笔画。美学教育！
 
-{{< figure src="202308Brussel/quxian.jpg" caption="真的很美" resize_options="60%">}}
+{{< figure src="202308Brussel/meinv.jpg" caption="真的很美" resize_options="60%">}}
 
 ### 博物馆，一种作坊
 
