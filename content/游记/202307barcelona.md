@@ -9,16 +9,6 @@ commentable: true
 weight: -2
 ---
 
-- BAMB
-  - 社交
-  - Mindset
-  - Method
-
-- 巴塞
-  - 海滩
-  - 旅行
-  - 城市
-
 
 {{< figure src="202308BCN/cookie.jpg" caption="可爱小饼干" resize_options="60%">}}
 
