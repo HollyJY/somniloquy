@@ -71,7 +71,7 @@ features:
   comment:
     provider: ''
     disqus:
-      shortname: ''
+      shortname: 'hollyjyz'
       show_count: true
     commento:
       url: ''
