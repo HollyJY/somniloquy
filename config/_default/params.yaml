@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: Native
+  font: Classic
   font_size: M
 
 # SEO
@@ -69,7 +69,7 @@ features:
     content_dir: content
     branch: main
   comment:
-    provider: ''
+    provider: disqus
     disqus:
       shortname: 'hollyjyz'
       show_count: true
