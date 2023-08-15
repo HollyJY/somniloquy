@@ -3,7 +3,7 @@
 title: 📖
 linktitle: 📖
 summary: 忍不住写点读书
-weight: 2
+weight: 3
 # icon: book
 # icon_pack: fas
 
