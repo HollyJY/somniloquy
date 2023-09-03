@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 📖 读点书
-linktitle: 📖 读点书
+title: 🎨 Move一下
+linktitle: 🎨 Move一下
 summary: 忍不住写点读书
 weight: 3
 # icon: book
