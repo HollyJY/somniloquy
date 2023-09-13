@@ -69,7 +69,7 @@ features:
     content_dir: content
     branch: main
   comment:
-    provider: 'disqus'
+    provider: ''
     disqus:
       shortname: 'hollyjyz'
       show_count: true
