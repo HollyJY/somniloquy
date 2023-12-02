@@ -3,7 +3,7 @@
 title: 🎨 稍微读点
 linktitle: 🎨 稍微读点
 summary: 忍不住写点读书
-weight: 4
+weight: 3
 # icon: book
 # icon_pack: fas
 

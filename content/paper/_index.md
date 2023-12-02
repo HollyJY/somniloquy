@@ -3,7 +3,7 @@
 title: 🧑‍🎓 多读点
 linktitle: 🧑‍🎓
 summary: 活着这事吧
-weight: 3
+weight: 4
 # icon: book
 # icon_pack: fas
 
