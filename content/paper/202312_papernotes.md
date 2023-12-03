@@ -14,7 +14,7 @@ weight: 0
 
 {{< spoiler text="van Renswoude, D. R., van den Berg, L., Raijmakers, M. E., & Visser, I. (2019). Infants’ center bias in free viewing of real-world scenes. Vision research, 154, 44-53." >}}
 
-{{<attention, infants>}}
+{{<attention><infant>}}
 
 @question
 
