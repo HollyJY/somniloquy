@@ -12,5 +12,19 @@ weight: 0
 
 ## 12.2
 
+{{< spoiler text="Click to view the spoiler" >}}
+
 > van Renswoude, D. R., van den Berg, L., Raijmakers, M. E., & Visser, I. (2019). Infants’ center bias in free viewing of real-world scenes. Vision research, 154, 44-53.
 
+@question
+
+* central bias in infants
+* competition betwenn stimulus-driven & center bias
+
+@paradigm
+
+@operationalization
+
+@data
+
+{{< /spoiler >}}
