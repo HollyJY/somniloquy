@@ -10,14 +10,7 @@ draft: false
 weight: 0
 ---
 
-### 12.2
+## 12.2
 
-Frank et al., 2017
+> van Renswoude, D. R., van den Berg, L., Raijmakers, M. E., & Visser, I. (2019). Infants’ center bias in free viewing of real-world scenes. Vision research, 154, 44-53.
 
-{{< attention, infancy >}}
-
-{{< spoiler text="A Collaborative Approach to Infant Research: Promoting Reproducibility, Best Practices, and Theory-Building" >}}
-
-You found me!
-
-{{< /spoiler >}}
