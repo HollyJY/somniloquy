@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 title: ✍️ 随便扯点，或者月记
-linktitle: ✍️ 随便扯点
+linktitle: ✍️ 日日夜夜
 summary: 月记和随笔
 weight: 2
 # icon: python
