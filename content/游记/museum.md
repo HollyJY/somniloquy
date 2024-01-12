@@ -15,12 +15,14 @@ weight: 2
 
 ## Jan
 
-1. Nationalmuseet, Copenhagen，丹麦历史
-2. Ny Carlsberg Glyptotek, Copenhagen，文艺复兴之后是法国和丹麦
-3. Thorvaldsens Museum, Copenhagen，偷学罗马技术回家造异教神话
-4. Statens Museum for Kunst, Copenhagen，现代艺术大讲堂
-5. Louisanna, Copenhagen，环境的烘托
-6. Malmo Castel, Sweden，早 500 年都是一家
-7. Den Bla Planet, Copendagen，怪不得丹麦鱼好吃
+1. <mark>Nationalmuseet</mark>, Copenhagen，丹麦历史
+2. <mark>Ny Carlsberg Glyptotek</mark>, Copenhagen，文艺复兴之后是法国和丹麦
+3. <mark>Thorvaldsens Museum</mark>, Copenhagen，偷学罗马技术回家造异教神话
+4. <mark>Statens Museum for Kunst</mark>, Copenhagen，现代艺术大讲堂
+5. <mark>Louisanna</mark>, Copenhagen，环境的烘托
+6. <mark>Malmo Castel</mark>, Sweden，早 500 年都是一家
+7. <mark>Den Bla Planet</mark>, Copendagen，怪不得丹麦鱼好吃
 
 [1 月丹麦旅行]({{< relref "/202401Copenhagen" >}})
+
+{style="color: red"}
