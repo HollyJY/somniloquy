@@ -25,6 +25,9 @@ weight: -100
 
 [1 月丹麦旅行]({{< relref "/202401Copenhagen" >}})
 
+8. <mark>Maurithuis</mark>, Den Haag，在荷兰看荷兰画派和在丹麦比利时看荷兰画派果然不同
+9. <mark>the Haag's Historic Museum</mark>, Den Haag，中世纪以来的权力中心
+
 ---
 
 ## Wishlist
