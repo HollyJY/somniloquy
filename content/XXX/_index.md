@@ -3,7 +3,7 @@
 title: ✍️ 随便扯点，或者月记
 linktitle: ✍️ 日日夜夜
 summary: 月记和随笔
-weight: 2
+weight: 3
 # icon: python
 # icon_pack: fab
 

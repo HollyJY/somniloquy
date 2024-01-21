@@ -3,7 +3,7 @@
 title: 🎒 游记
 linktitle: 🎒 游记
 summary: 我的游记
-weight: 1
+weight: 2
 # icon: book
 # icon_pack: fas
 
