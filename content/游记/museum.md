@@ -30,7 +30,7 @@ weight: -100
 10. <mark>Koninklijk Museum voor Schone Kunsten Antwerpen</mark>, Antwerp, Lubens 确实给人宗教震撼
 11. <mark>Het Steen</mark>, Antwerp, 安特卫普自豪故事
 
-[1/20安特卫普]({{<relref "../WeekendTrip/20240121W3Antwerp" >}})
+1/20安特卫普
 
 ---
 
