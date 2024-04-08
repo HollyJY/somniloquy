@@ -1,6 +1,6 @@
 ---
 title: 2024.4 🇩🇪我要搬家到杜塞
-linktitle: 2024.4 德国Dusseldorf
+linktitle: 2024.4 🇩🇪Dusseldorf
 date: '2024-04-08T00:00:00+01:00'
 toc: true
 commentable: true
