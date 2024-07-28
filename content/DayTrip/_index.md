@@ -3,7 +3,7 @@
 title: 🚌 周六旅行，周日睡大觉
 linktitle: 🚌 Weekend Trip
 summary: 周末玩点
-weight: 1
+weight: 5
 # icon: book
 # icon_pack: fas
 
