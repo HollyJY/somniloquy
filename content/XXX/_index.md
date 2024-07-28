@@ -1,36 +1,27 @@
 ---
+# Page title
 title: 💫 日日夜夜
+# Page type - we want a landing page (such as a homepage)
 type: landing
 
+# Your landing page sections - add as many different content blocks as you like
 sections:
+  # A section to display blog posts
   - block: collection
-  id: posts
-  content:
-  title: Recent Posts
-  subtitle: ''
-  text: 'Check out my recent blog posts below!'
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-  # The folders to display content from
-  folders:
-  - post
-  author: ""
-  category: ""
-  tag: ""
-  publication_type: ""
-  featured_only: false
-  exclude_featured: false
-  exclude_future: false
-  exclude_past: false
-  # Choose how many pages you would like to offset by
-  # Useful if you wish to show the first item in the Featured widget
-  offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
-  design:
-  # Choose a listing view
-  view: card
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      # Display content from the `content/post/` folder
+      filters:
+        folders:
+          - post
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      # Choose your content listing view - here we use the `showcase` view
+      view: showcase
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
 ---
