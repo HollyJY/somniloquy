@@ -1,5 +1,5 @@
 ---
-title: My page
+title: 💫 日日夜夜
 type: landing
 
 sections:
