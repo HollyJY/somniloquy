@@ -1,6 +1,6 @@
 ---
 title: 2024.8 🇯🇵冲向快乐！
-linktitle: 2024.7 🇯🇵福岡
+linktitle: 2024.8 🇯🇵福岡
 date: '2024-08-21T00:00:00+01:00'
 toc: true
 commentable: true
