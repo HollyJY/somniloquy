@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: hugo-theme-console
-  theme_night: hugo-theme-console
+  theme_day: minimal
+  theme_night: minimal
   font: Classic
   font_size: M
 
