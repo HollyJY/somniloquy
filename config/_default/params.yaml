@@ -35,11 +35,6 @@ header:
     align: r
     fixed_to_top: true
     show_logo: true
-    logo:
-      # Logo text
-      text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "icon.png"
     show_language: false
     show_day_night: true
     show_search: false
