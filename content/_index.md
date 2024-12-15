@@ -1,10 +1,40 @@
 ---
-title: 💭 Somniloquy
-date: 2022-09-24
-toc: false
+# Leave the homepage title empty to use the site title
+title:
+date: 2024-12-15
+type: landing
 
-image:
-  filename: covers/cover1.jpg
+sections:
+  - block: hero
+    content:
+      title: |
+        猫头鹰转过 180 头
+      image:
+        filename: covers/cover1.jpg
+      text: |
+        <br>
+        
+        random dumps.
+  
+  - block: collection
+    content:
+      title: 福至心灵时刻
+      subtitle:
+      text:
+      count: 2
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: 'hint'
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+  
 ---
 
 > 感谢忍不住想写点东西的我，终于学会了使用 Github。
