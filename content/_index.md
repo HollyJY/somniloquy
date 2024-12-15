@@ -2,7 +2,7 @@
 title: 💭 Somniloquy
 date: 2022-09-24
 toc: false
-type: posts
+type: pages
 
 image:
   filename: covers/cover1.jpg
