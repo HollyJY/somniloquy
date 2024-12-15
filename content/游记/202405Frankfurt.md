@@ -4,6 +4,8 @@ linktitle: 2024.5 🇩🇪Frankfurt
 date: '2024-05-19T00:00:00+01:00'
 toc: true
 commentable: true
+type: posts
+tags: ["travel", "2024"]
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: -10
