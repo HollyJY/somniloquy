@@ -4,10 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 福至心灵时刻
-    url: 游记/
+  - name: home
+    url: /
     weight: 10
-  - name: 疯言疯语dump
-    url: XXX/
-    weight: 20
 
