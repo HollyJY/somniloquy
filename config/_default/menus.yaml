@@ -7,6 +7,6 @@ main:
   - name: home
     url: /
     weight: 10
-  - name: currently ongoing...
+  - name: currently
     url: /XXX/
 
