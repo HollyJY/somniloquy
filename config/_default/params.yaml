@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: emerald
-  theme_night: emerald
+  theme_day: /assets/css/themes/emerald
+  theme_night: 1950s
   font: Classic
   font_size: M
 
