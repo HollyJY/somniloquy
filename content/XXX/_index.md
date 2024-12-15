@@ -26,7 +26,4 @@ sections:
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
 
-# Page metadata.
-date: '2023-07-06T00:00:00Z'
-toc: false
 ---
