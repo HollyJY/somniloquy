@@ -7,6 +7,9 @@ main:
   - name: home
     url: /
     weight: 10
-  - name: currently
+  - name: 福至心灵时刻
+    url: /游记/
+    weight: 20
+  - name: dump
     url: /XXX/
-
+    weight: 30
