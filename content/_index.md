@@ -40,7 +40,7 @@ sections:
 # 最近有意思想法
   - block: collection
     content:
-      title: 好东西
+      title: ⚗️ 好东西
       subtitle:
       text:
       count: 3
