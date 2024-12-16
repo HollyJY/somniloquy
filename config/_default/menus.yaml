@@ -12,7 +12,7 @@ main:
   #   weight: 30
   - name: 🎆 明天是复杂的漫游
     url: posts/
-    weight 35
+    weight: 35
   - name: tags
     url: tags/
     weight: 40
