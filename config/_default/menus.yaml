@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: 猫头鹰转过 180 度头
+    url: /
+    weight: 10
   - name: 福至心灵时刻
     url: /posts/游记/
     weight: 20
