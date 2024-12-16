@@ -31,10 +31,18 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
 ---
+
+background:
+  image:
+    filename: covers/cover1.jpg
+    filters:
+      brightness: 1
+    parallax: false
+    position: center
+    size: contain
+    text_color_light: true
