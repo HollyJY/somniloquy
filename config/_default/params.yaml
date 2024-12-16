@@ -1,90 +1,60 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: 1950s
-  theme_night: 1950s
-  font: Classic
-  font_size: M
+  mode: system
+  color: blue
 
 # SEO
-
 marketing:
   seo:
-    site_type: Project
+    site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo notes theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
+    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: r
-    fixed_to_top: true
-    show_logo: true
-    show_language: false
-    show_day_night: true
     show_search: true
-    highlight_active_link: true
+    show_theme_chooser: true
 
+# Site footer
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
 # Site features
-
 features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 
-    content_dir: content
+    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    content_dir: starters/blog/content
     branch: main
-  comment:
-    provider: 'disqus'
-    disqus:
-      shortname: 'hollyjyz'
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: true
