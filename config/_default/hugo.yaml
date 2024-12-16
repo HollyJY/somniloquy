@@ -13,7 +13,7 @@ baseURL: 'https://hollyz.netlify.app' # Website URL
 cascade:
   # Blog post options
   - _target:
-      path: /blog/**
+      path: /posts/**
       kind: page
     pager: true
     editable: true
@@ -34,7 +34,7 @@ cascade:
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
