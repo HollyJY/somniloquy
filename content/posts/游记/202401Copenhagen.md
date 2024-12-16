@@ -16,7 +16,7 @@ weight: -8
 
 节日最后的欢乐
 
-{{< figure src="202401Copenhagen/schedule.png" caption="跟着自己做的攻略玩特别开心舒服、初见成效！">}}
+{{< figure src="media/202401Copenhagen/schedule.png" caption="跟着自己做的攻略玩特别开心舒服、初见成效！">}}
 
 ## 1 消费，商品社会认识城市的方式
 
@@ -24,7 +24,7 @@ weight: -8
 
 但丹麦好吃又好买，一落地就能见到 711 大为震撼，原来欧洲城市也有便利店。哥本哈根是最像上海的城市，精致的咖啡店面包店、市中心大商场、硕大的 MUJI 或许是欧洲最大、手作店、精品咖啡糕点曲奇。感想是北欧服装与日系无甚差别，只是北欧人更高穿出截然不同的气质，非常神奇，也有很多北欧人自己的品牌。甚至东边有机场、机场边有水族馆，河把城市分成左右两半。
 
-{{< figure src="202401Copenhagen/711.jpg" caption="便利店我的家">}}
+{{< figure src="media/202401Copenhagen/711.jpg" caption="便利店我的家">}}
 
 但听说这几年丹麦经济也不好，不懂。好想多学学经济。过个河就是瑞典了，瑞典克朗：丹麦克朗是 1.5:1，物价好像也要便宜不少。很微妙。为什么过个海就有如此大的差别？经济好或者不好到底是怎么看出来的？
 
@@ -44,7 +44,7 @@ gsj 说最近很难静下心读书了，最好的获得方法是旅行，确实�
 
 还有 “世界上的人们”，是我这辈子活到今天甚至最全的展厅了。亚洲中国日本韩国泰国印度，北美南美，非洲，澳大利亚。看了很多早期部落人的艺术品和原始信仰。这么全面或许和早期航海和商贸大有关系，和世界建立文化交流。
 
-{{< figure src="202401Copenhagen/tanzi.JPG" caption="神奇挂毯">}}
+{{< figure src="media/202401Copenhagen/tanzi.JPG" caption="神奇挂毯">}}
 
 > Ny Carlsberg Glyptotek，文艺复兴之后是法国和丹麦
 
@@ -52,25 +52,25 @@ gsj 说最近很难静下心读书了，最好的获得方法是旅行，确实�
 
 好玩其实是临时展览，小说家用文字串联他对 beyond nature 的理解。绘画和艺术保存回忆再造回忆，颜色文字故事造一个叙事和意境。能读得进文字还是很美的沉浸体验。
 
-{{< figure src="202401Copenhagen/wenzi.jpg" caption="叙事">}}
+{{< figure src="media/202401Copenhagen/wenzi.jpg" caption="叙事">}}
 
 > Thorvaldsens Museums，偷学罗马技术回家造异教神话
 
 Thorvaldsens 跑到罗马大学特学不肯回家，回家的时候全国市民到码头迎接。罗马文艺复兴但也就停在文艺复兴，Thorvaldsens 刻了特别多希腊罗马神话倒是很合我意。甚至还有北欧神话，新嘉士伯格还卖尼尔盖曼的《北欧神话》，原来我度过啊？想读一点埃及和印度的。
 
-{{< figure src="202401Copenhagen/yijiao.jpg" caption="宁芙和丘比特">}}
+{{< figure src="media/202401Copenhagen/yijiao.jpg" caption="宁芙和丘比特">}}
 
 > Statens Museum for Kunst，现代艺术大讲堂
 
 从文艺复兴到现代装置艺术。
 
-{{< figure src="202401Copenhagen/lajitong.jpg" caption="镜子好玩但还是垃圾桶">}}
+{{< figure src="media/202401Copenhagen/lajitong.jpg" caption="镜子好玩但还是垃圾桶">}}
 
 > Louisanna，环境的烘托
 
 乡下地大，出太阳光好，环境和场域给了路易斯安那其他博物馆很难达到的美。临时展说非洲各种装置建筑强调环境、动物等等问题。连非洲南美都看着眼前迫在眉睫的问题啊……
 
-{{< figure src="202401Copenhagen/huanjing.jpg" caption="自然光真好看">}}
+{{< figure src="media/202401Copenhagen/huanjing.jpg" caption="自然光真好看">}}
 
 > Malmo Castle，早 500 年都是一家
 
@@ -90,15 +90,15 @@ Thorvaldsens 跑到罗马大学特学不肯回家，回家的时候全国市民�
 
 711 鸡肉串很好吃，芝士鸡肉条特别好吃，咖啡厅小豆蔻卷 cardamom bum 非常好吃，表面亚麻籽中间空心的酥皮 pastry 是最好吃的。
 
-{{< figure src="202401Copenhagen/yamazi.jpg" caption="我又馋了">}}
+{{< figure src="media/202401Copenhagen/yamazi.jpg" caption="我又馋了">}}
 
 手撕牛肉汉堡香甜多汁酷似肉夹馍，炸鱼薯条稍腻但肉质紧实，海鲜店第一次吃到美味生蚝、生蛏子、海草黄油海草华夫饼很咸很神奇很好吃，香港人开的日料店非常惊喜精致有很多感动，maple 倒是一般。丹麦，在食物上给人很多惊喜感动的城市，欲罢不能。
 
-{{< figure src="202401Copenhagen/haicao.jpg" caption="海草黄油">}}
+{{< figure src="media/202401Copenhagen/haicao.jpg" caption="海草黄油">}}
 
 或者就是荷兰商品经济太不发达，商品经济给社会和消费带来的是一种内卷，大家都努力所以做得不错。但荷兰大家都摆烂所以看上去像样的努力都不努力完全端上来，太敷衍了。
 
-{{< figure src="202401Copenhagen/mifan.jpg" caption="太好吃了">}}
+{{< figure src="media/202401Copenhagen/mifan.jpg" caption="太好吃了">}}
 
 临走带的黄油饼干、咖啡店面包、奇怪巧克力，美味到家。到家了还在回味享受。咖啡也非常美妙，但咖啡非常昂贵，一杯咖啡是一个美味糕点 2 倍价格，这也是我不理解的事啊！
 
@@ -110,7 +110,7 @@ Thorvaldsens 跑到罗马大学特学不肯回家，回家的时候全国市民�
 
 好运在去前一天刚下完雪，没见过世面的南方人第一次见那么丰富的城市雪景乡村雪景铁路雪景公园雪景各种雪景。感谢貌美羽绒服 -8 度天让我 survive，寒冷冰冻但能活。理解北欧人步子迈这么大，走得快就不那么寒冷，回到阿姆这都不算事。
 
-{{< figure src="202401Copenhagen/xuejing.jpg" caption="皇家花园">}}
+{{< figure src="media/202401Copenhagen/xuejing.jpg" caption="皇家花园">}}
 
 寒冷天独自步行，想想旅行在我的欧洲生活里到底扮演什么角色，它们不至于是日常生活里的唯一寄托剩下只是忍耐吧？行万里路理解世界，和日常又是什么关系？在今天在未来想过上什么样的生活？不知道啊！
 
