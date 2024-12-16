@@ -1,4 +1,3 @@
 ---
 title: tags explore
-type: 
 ---
