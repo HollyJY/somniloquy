@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
+  theme: 1950s
   color: blue
+  font_size: M
 
 # SEO
 marketing:
@@ -30,8 +32,11 @@ marketing:
 header:
   navbar:
     enable: true
+    align: r
+    show_logo: true
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
 
 # Site footer
 footer:
