@@ -36,6 +36,12 @@ header:
     show_search: true
     show_theme_chooser: true
     highlight_active_link: true
+    fixed_to_top: true
+    logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png"
 
 # Site footer
 footer:
