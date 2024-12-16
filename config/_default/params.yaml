@@ -39,9 +39,9 @@ header:
     fixed_to_top: true
     logo:
       # Logo text
-      text: ""
+      text: "猫头鹰转过 180 度头"
       # Logo filename in `assets/media/` folder
-      filename: "icon.png"
+      filename: "icon2.jpg"
 
 # Site footer
 footer:
