@@ -52,7 +52,7 @@ sections:
         tag: 'moment'
       offset: 0
       order: desc
-      page_type: moment
+      page_type: moments
     design:
       view: card
       columns: '1'
