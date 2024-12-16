@@ -37,4 +37,24 @@ sections:
           text_color_light: true
       css_class: fullscreen
 
+# 最近有意思想法
+  - block: collection
+    content:
+      title: 好东西
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: 'moment'
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+
 ---
