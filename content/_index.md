@@ -54,7 +54,7 @@ sections:
       order: desc
       page_type: moments
     design:
-      view: card
+      view: showcase
       columns: '1'
 
 ---
