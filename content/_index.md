@@ -36,13 +36,3 @@ sections:
       css_class: fullscreen
 
 ---
-
-background:
-  image:
-    filename: covers/cover1.jpg
-    filters:
-      brightness: 1
-    parallax: false
-    position: center
-    size: contain
-    text_color_light: true
