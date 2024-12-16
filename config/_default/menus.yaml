@@ -4,15 +4,15 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: 福至心灵时刻
-  #   url: /posts/游记/
-  #   weight: 20
-  # - name: dump
-  #   url: /posts/XXX/
-  #   weight: 30
-  - name: 🎆 明天是复杂的漫游
-    url: posts/
-    weight: 35
+  - name: 福至心灵时刻
+    url: /posts/游记/
+    weight: 20
+  - name: dump
+    url: /posts/XXX/
+    weight: 30
+  # - name: 🎆 明天是复杂的漫游
+  #   url: posts/
+  #   weight: 35
   - name: tags
     url: tags/
     weight: 40
