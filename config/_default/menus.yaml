@@ -5,10 +5,10 @@
 
 main:
   - name: 福至心灵时刻
-    url: /游记/
+    url: /posts/游记/
     weight: 20
   - name: dump
-    url: /XXX/
+    url: /posts/XXX/
     weight: 30
   - name: tags
     url: tags/
