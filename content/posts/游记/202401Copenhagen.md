@@ -16,6 +16,8 @@ weight: -8
 
 节日最后的欢乐
 
+<!--more-->
+
 {{< figure src="media/202401Copenhagen/schedule.png" caption="跟着自己做的攻略玩特别开心舒服、初见成效！">}}
 
 ## 1 消费，商品社会认识城市的方式

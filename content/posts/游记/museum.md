@@ -14,6 +14,8 @@ weight: -100
 
 # 2024
 
+<!--more-->
+
 ## Jan
 
 1. <mark>Nationalmuseet</mark>, Copenhagen，丹麦历史

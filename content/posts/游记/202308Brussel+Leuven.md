@@ -17,6 +17,8 @@ weight: -3
 
 最大的旅行收获是；人类生存两大困境，寒冷+饥饿，依然是重要命题。人不能不吃饭！人不能不保暖！
 
+<!--more-->
+
 {{< figure src="202308Brussel/chocolate.jpg" caption="10欧巧克力" resize_options="60%">}}
 
 * Day1: 皇家博物馆+大广场+市政厅博物馆+啤酒博物馆
