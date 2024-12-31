@@ -7,7 +7,7 @@ main:
   - name: 福至心灵时刻
     url: /posts/游记/
     weight: 20
-  - name: dump
+  - name: 废话使人勇敢
     url: /posts/XXX/
     weight: 30
   # - name: 🎆 明天是复杂的漫游
