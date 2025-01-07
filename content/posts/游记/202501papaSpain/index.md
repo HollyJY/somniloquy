@@ -1,6 +1,6 @@
 ---
 title: 游记 ｜ 2025.01 🇳🇱🎄🇪🇸 伟大的公园漫步
-linktitle: 2024.01 🇪🇸Barcelona, Madrid
+linktitle: 2024.01 🇪🇸Barcelona Madrid
 date: '2025-01-06T00:00:00+01:00'
 toc: true
 commentable: true
@@ -9,7 +9,7 @@ type: posts
 image:
   focal_point: 'top'
 
-tags: ["travel", "2024", "2025"， "family"]
+tags: ["travel", "2024", "2025", "family"]
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: -17
