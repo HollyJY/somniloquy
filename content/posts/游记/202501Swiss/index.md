@@ -9,7 +9,7 @@ type: posts
 image:
   focal_point: 'top'
 
-tags: ["travel", "2024", "2025", "family"]
+tags: ["travel", "2025", "family"]
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: -18
