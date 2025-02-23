@@ -1,6 +1,6 @@
 ---
 title: 游记 ｜ 2025.01 🇨🇭 现代金融オシャレ之城
-linktitle: 2024.01 🇨🇭zurich+alps
+linktitle: 2025.01 🇨🇭zurich+alps
 date: '2025-01-19T00:00:00+01:00'
 toc: true
 commentable: true
