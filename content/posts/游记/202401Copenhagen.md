@@ -1,7 +1,7 @@
 ---
 title: 游记 ｜ 2024.1 🇩🇰 哥本哈根和日本什么区别？
 linktitle: 2024.1 🇩🇰Copenhagen
-date: '2023-01-09T00:00:00+01:00'
+date: '2024-01-09T00:00:00+01:00'
 toc: true
 commentable: true
 type: posts
