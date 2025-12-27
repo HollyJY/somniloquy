@@ -1,0 +1,41 @@
+baseURL = "https://hollyz.netlify.app"
+DefaultContentLanguage = "en"
+languageCode = "en-us"
+title = "猫头鹰转过180度头"
+theme = "diary"
+
+[module]
+  [[module.mounts]]
+    source = "assets/media"
+    target = "static/media"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  subtitle = ""
+  enableGitalk = false
+  enableGiscus = false
+  enableOpenGraph = true
+  enableTwitterCards = true
+  title = "猫头鹰转过180度头"
+  description = ""
+
+[[menu.main]]
+  name = "福至心灵时刻"
+  url = "/posts/游记/"
+  weight = 20
+[[menu.main]]
+  name = "废话使人勇敢"
+  url = "/posts/XXX/"
+  weight = 30
+[[menu.main]]
+  name = "tags"
+  url = "/tags/"
+  weight = 40

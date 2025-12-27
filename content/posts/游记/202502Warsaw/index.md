@@ -5,15 +5,13 @@ date: '2025-02-23T00:00:00+01:00'
 toc: true
 commentable: true
 type: posts
+featured_image: "featured.jpg"
 
-image:
-  focal_point: 'top'
 
 tags: ["travel", "2025"]
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: -19
-
 ---
 
 2025/2/21 - 2025/2/23

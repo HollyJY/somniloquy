@@ -1,8 +1,7 @@
 ---
 title: 好东西 ｜ ❤️ 爱意满盈一则
 date: '2025-06-23T00:00:00+01:00'
-image:
-  focal_point: 'top'
+featured_image: "featured.jpg"
 tags: ['2025', 'moment', 'kendo', 'friend']
 ---
 

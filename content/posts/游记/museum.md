@@ -26,7 +26,7 @@ weight: -100
 6. <mark>Malmo Castel</mark>, Sweden，早 500 年都是一家
 7. <mark>Den Bla Planet</mark>, Copenhagen，怪不得丹麦鱼好吃
 
-[1 月丹麦旅行]({{< relref "/202401Copenhagen" >}})
+[1 月丹麦旅行]({{< relref "202401Copenhagen.md" >}})
 
 8. <mark>Maurithuis</mark>, Den Haag，在荷兰看荷兰画派和在丹麦比利时看荷兰画派果然不同
 9. <mark>the Haag's Historic Museum</mark>, Den Haag，中世纪以来的权力中心

@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<div class="post-list-container post-list-container-shadow">
+  <a class="a-block">
+    <div class="post-item-wrapper post-item-wrapper-no-hover">
+      <div class="post-item post-item-no-gaps">
+        <div class="post-item-info-wrapper">
+          <div class="post-item-title post-item-title-small">
+            {{ .Title }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+  <div class="tags">
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    <div class="tag">
+      {{ $link := printf "/tags/%s/" ($name | urlize) }}
+      <a href="{{ $link | relURL }}" class="btn btn-outline-secondary position-relative rounded-pill">
+        {{ $name }}
+        <span class="badge">({{ len $taxonomy }})</span>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}
