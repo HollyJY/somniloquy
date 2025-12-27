@@ -18,6 +18,8 @@ theme = "diary"
   tag = "tags"
   category = "categories"
 
+pagination = 20
+
 [params]
   subtitle = ""
   enableGitalk = false

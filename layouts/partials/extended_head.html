@@ -1,0 +1,103 @@
+<style>
+  :root {
+    --accent: #8b1f1f;
+    --accent-dark: #5a0f0f;
+    --accent-deep: #3f0a0a;
+    --accent-soft: rgba(139, 31, 31, 0.07);
+    --accent-soft-strong: rgba(139, 31, 31, 0.1);
+    --accent-soft-light: rgba(139, 31, 31, 0.03);
+  }
+
+  a {
+    color: var(--accent);
+  }
+
+  a:hover {
+    color: var(--accent-dark);
+  }
+
+  code {
+    color: var(--accent-dark);
+    background: var(--accent-soft);
+  }
+
+  pre {
+    background: var(--accent-soft);
+  }
+
+  blockquote {
+    border-left-color: rgba(139, 31, 31, 0.7);
+    color: var(--accent-dark);
+    background: rgba(139, 31, 31, 0.05);
+  }
+
+  blockquote * {
+    color: var(--accent-dark);
+  }
+
+  .toc {
+    background: rgba(139, 31, 31, 0.05);
+  }
+
+  .toc .toc-active {
+    color: var(--accent-deep) !important;
+  }
+
+  .side-container .nav-head.active,
+  .side-container .nav-link-item.active,
+  .single-column-drawer-container .drawer-menu-item.active {
+    border-right-color: var(--accent) !important;
+    background: var(--accent-soft-light) !important;
+    color: var(--accent-dark) !important;
+  }
+
+  .side-container .nav-head:hover,
+  .side-container .nav-link-item:hover,
+  .single-column-drawer-container .drawer-menu-item:hover {
+    border-right-color: rgba(139, 31, 31, 0.6) !important;
+    background: rgba(139, 31, 31, 0.02) !important;
+    color: var(--accent-dark) !important;
+  }
+
+  .post-item-wrapper:hover .post-item-title {
+    text-decoration-color: var(--accent);
+  }
+
+  .post-item-meta {
+    color: #777;
+  }
+
+  .btn-outline-secondary {
+    color: var(--accent);
+    border-color: rgba(139, 31, 31, 0.4);
+  }
+
+  .btn-outline-secondary:hover {
+    color: var(--accent-dark);
+    background: var(--accent-soft-strong);
+    border-color: var(--accent);
+  }
+
+  .post-list-container .post-item {
+    padding: 4px 0;
+  }
+
+  .post-list-container .post-item-image-wrapper .post-item-image {
+    width: 160px;
+    height: 160px;
+    background-size: contain !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+
+  @media screen and (max-width: 1020px) {
+    .post-list-container .post-item-image-wrapper .post-item-image {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1 / 1;
+      border-radius: 0;
+      background-size: contain !important;
+    }
+  }
+
+</style>
